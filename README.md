@@ -2,6 +2,6 @@
 ## Distribution of House Prices
 ![Histogram](Histogram.png)
 ## Correlation Heatmap
-![Heatmap](CorrelationChart.png)
+![Heatmap](HeatmapChart.png)
 ## Price VS Area
 ![Scatter Plot](ScatterChart.png)

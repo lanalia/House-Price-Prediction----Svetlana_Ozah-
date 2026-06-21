@@ -4,4 +4,4 @@
 ## Correlation Heatmap
 ![Heatmap](HeatmapChart.png)
 ## Price VS Area
-![Scatter Plot](ScatterChart.png)
+![Scatter Plot](Scatter__Chart.png)
